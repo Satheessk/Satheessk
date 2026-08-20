@@ -1,292 +1,380 @@
-# 👋 Hi, I'm SK
-
-### 💻 B.Tech Information Technology Student | Software Developer | DSA Enthusiast | AI/ML Explorer
-
-I'm an **Information Technology student at Madras Institute of Technology, Anna University**, passionate about building practical software solutions and continuously improving my problem-solving skills.
-
-I enjoy working with **C++, Java, Python, web technologies, databases, and machine learning**, while actively strengthening my foundations in **Data Structures & Algorithms, DBMS, Computer Networks, and Software Development**.
-
-* 🎓 B.Tech Information Technology — **Madras Institute of Technology, Anna University**
-* 💻 Interested in **Software Development, Backend Engineering & AI/ML**
-* 🧠 Solved **170+ problems on LeetCode**
-* 🚀 Building projects using **C++, React, Node.js, Python & Machine Learning**
-* 🔬 Exploring **AI-based environmental sound recognition for hearing-impaired individuals**
-* 🌱 Currently improving **DSA, Backend Development, System Design & AI/ML**
-* 📍 Based in India
-
----
-
-## 🛠️ Technical Skills
-
-### 👨‍💻 Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## ✈️ Airport Runway Management System
-
-A console-based airport runway management system designed to efficiently manage aircraft landing and takeoff requests using a **heap-based priority queue**.
-
-**Tech Stack:** `C` `Data Structures` `Priority Queue` `Heap`
-
-### Key Concepts
-
-* Priority-based aircraft scheduling
-* Heap-based priority queue
-* Efficient insertion and deletion
-* Dynamic request management
-* Data-structure-driven scheduling
-
-🔗 **Repository:** [Airport Runway Management](https://github.com/Satheessk/Airport_runway_Management)
-
----
-
-## 🛒 Grocery E-Commerce Website
-
-A full-stack grocery e-commerce application that provides an online platform for browsing products, managing a shopping cart, and handling user interactions.
-
-**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB`
-
-### Key Concepts
-
-* Responsive frontend using React
-* REST API based backend
-* MongoDB database integration
-* Shopping cart functionality
-* Full-stack application architecture
-
-🔗 **Repository:** [E-Commerce in Groceries](https://github.com/Satheessk/E-commerce-in-Groceries)
-
----
-
-## 📈 Stock Price Prediction
-
-A machine learning project focused on analyzing historical stock market data and predicting future stock price trends.
-
-**Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
-
-### Key Concepts
-
-* Data preprocessing
-* Exploratory data analysis
-* Feature engineering
-* Machine learning model training
-* Prediction and visualization
-
-🔗 **Repository:** [Stock Price Prediction](https://github.com/Satheessk/Stock-Price-Prediction)
-
----
-
-## ✍️ CareerWriter — AI-Powered Career Assistant
-
-An AI-powered application designed to help users generate career-related content using large language models.
-
-**Tech Stack:** `Python` `Streamlit` `Gemini API` `LLM`
-
-### Key Concepts
-
-* Generative AI
-* LLM API integration
-* Prompt-based content generation
-* Interactive Streamlit interface
-* AI-assisted career writing
-
-🔗 **Repository:** [CareerWriter](https://github.com/Satheessk/Career-Writer)
-
----
-
-# 🔬 Research & Current Project
-
-## 🔊 AI-Based Environmental Sound Recognition & Alert System
-
-Currently exploring an AI-powered system designed to help **hearing-impaired individuals recognize important environmental sounds** and receive meaningful alerts.
-
-The system focuses on sounds such as:
-
-* 🚗 Vehicle horns
-* 🔔 Doorbells
-* 🚨 Alarms
-* 🚦 Road/environmental sounds
-* 🏠 Household sounds
-* 🌳 Outdoor environmental sounds
-
-### Technologies Being Explored
-
-`ESP32` `Mobile Computing` `Audio Processing` `TensorFlow` `YAMNet` `Environmental Sound Classification`
-
-The goal is to develop a **portable and context-aware sound recognition system** capable of operating across different environments.
-
----
-
-# 🧠 Data Structures & Algorithms
-
-I actively practice **Data Structures & Algorithms** and use problem solving to strengthen my programming fundamentals.
-
-### Topics I Practice
-
-```text
-Arrays
-Strings
-Linked Lists
-Stack
-Queue
-Hashing
-Heap / Priority Queue
-Binary Search
-Sliding Window
-Two Pointers
-Prefix Sum
-Greedy Algorithms
-Backtracking
-Dynamic Programming
-Trees
-Graphs
-DFS
-BFS
-Union-Find
-```
-
-### LeetCode
-
-🏆 **170+ Problems Solved**
-
-I regularly use LeetCode to improve:
-
-* Problem-solving ability
-* Algorithmic thinking
-* Time & space complexity analysis
-* C++ implementation skills
-* Interview preparation
-
----
-
-# 📚 Core Computer Science
-
-I'm continuously strengthening my fundamentals in:
-
-* 💻 Data Structures & Algorithms
-* 🗄️ Database Management Systems
-* 🌐 Computer Networks
-* 🧩 Operating Systems
-* 🔐 Computer Security & Cryptography
-* 🏗️ Software Engineering
-* ☁️ Cloud & DevOps fundamentals
-* 🤖 Machine Learning
-* 📊 Data Warehousing & Data Mining
-
----
-
-# 🌱 Currently Learning
-
-```text
-🔹 Advanced Data Structures & Algorithms
-🔹 Backend Development
-🔹 System Design Fundamentals
-🔹 Machine Learning & AI
-🔹 Computer Networks
-🔹 DBMS & Advanced SQL
-🔹 Cloud / DevOps Fundamentals
-```
-
----
-
-# 📊 GitHub Stats
+<!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satheessk&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satheessk&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SK&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20DSA%20%7C%20AI%2FML&descAlignY=60&descSize=20&color=0:2563EB,50:7C3AED,100:06B6D4" width="100%"/>
 </p>
 
----
-
-# 📈 Contribution Activity
+<h2 align="center">Hi, I'm SK</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satheessk&theme=tokyo-night&hide_border=true" />
+  <b>B.Tech Information Technology Student • Software Developer • DSA • AI/ML</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Satheessk">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://sk-portfolio-lyart.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# About Me
+
+* **B.Tech Information Technology** student at **Madras Institute of Technology, Anna University**
+* Focused on **Software Development, Data Structures & Algorithms, and Backend Engineering**
+* Experienced in building **full-stack and machine learning applications**
+* **250+ LeetCode problems solved**, with a focus on problem-solving and algorithmic thinking
+* Currently exploring **AI-based Environmental Sound Recognition** for real-world accessibility applications
+
+# Tech Stack
+
+<table>
+
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<img width="500" height="1">
+
+<h3>Programming Languages</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&perline=5">
+
+<br><br><br>
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img width="500" height="1">
+
+<h3>Frontend</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,react&perline=5">
+
+<br><br><br>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<img width="500" height="1">
+
+<h3>Backend & Frameworks</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=5">
+
+<br><br>
+
+REST APIs   •   Maven
+
+<br><br>
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img width="500" height="1">
+
+<h3>Databases</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=5">
+
+<br><br><br><br>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<img width="500" height="1">
+
+<h3>AI / Machine Learning</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&perline=5">
+
+<br><br>
+
+NumPy   •   Pandas   •   Streamlit
+
+<br><br>
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img width="500" height="1">
+
+<h3>Tools & Platforms</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&perline=5">
+
+<br><br>
+
+NPM   •   Postman
+
+<br><br>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<img width="500" height="1">
+
+<h3>Airport Runway Management</h3>
+
+<p>
+<b>C • Heap • Priority Queue • DSA</b>
+</p>
+
+<p>
+Priority-based airport runway scheduling system
+using a heap-based priority queue.
+</p>
+
+<p>
+<b>Focus</b><br>
+Priority Scheduling • Heap • Efficient Operations
+</p>
+
+<p>
+<a href="https://github.com/Satheessk/Airport_runway_Management">
+View Project →
+</a>
+</p>
+
+<br>
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img width="500" height="1">
+
+<h3>Grocery E-Commerce</h3>
+
+<p>
+<b>React • Node.js • Express • MongoDB</b>
+</p>
+
+<p>
+Full-stack grocery shopping application
+with product and cart management.
+</p>
+
+<p>
+<b>Focus</b><br>
+React • REST APIs • Backend • MongoDB
+</p>
+
+<p>
+<a href="https://github.com/Satheessk/E-commerce-in-Groceries">
+View Project →
+</a>
+</p>
+
+<br>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<img width="500" height="1">
+
+<h3>Stock Price Prediction</h3>
+
+<p>
+<b>Python • Machine Learning • TensorFlow • Streamlit</b>
+</p>
+
+<p>
+Machine learning application for stock
+prediction, analysis and visualization.
+</p>
+
+<p>
+<b>Focus</b><br>
+Data Processing • ML • Prediction • Visualization
+</p>
+
+<p>
+<a href="https://github.com/Satheessk/Stock-Price-Prediction">
+View Project →
+</a>
+</p>
+
+<br>
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img width="500" height="1">
+
+<h3>CareerWriter</h3>
+
+<p>
+<b>Python • Streamlit • Gemini API • LLM</b>
+</p>
+
+<p>
+AI-powered career writing assistant
+using generative AI.
+</p>
+
+<p>
+<b>Focus</b><br>
+Generative AI • LLM • Prompt Engineering
+</p>
+
+<p>
+<a href="https://github.com/Satheessk/Career-Writer">
+View Project →
+</a>
+</p>
+
+<br>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# DSA & Problem Solving
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-250%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</p>
+
+<p align="center">
+  <code>Arrays</code>
+  <code>Strings</code>
+  <code>Linked Lists</code>
+  <code>Stack</code>
+  <code>Queue</code>
+  <code>Hashing</code>
+  <code>Heap</code>
+  <br><br>
+  <code>Binary Search</code>
+  <code>Sliding Window</code>
+  <code>Two Pointers</code>
+  <code>Prefix Sum</code>
+  <br><br>
+  <code>Trees</code>
+  <code>Graphs</code>
+  <code>DFS</code>
+  <code>BFS</code>
+  <code>Greedy</code>
+  <code>Dynamic Programming</code>
+</p>
+
+---
+
+# Currently Exploring
+
+<table width="100%">
+
+<tr>
+
+<td width="100%" align="center">
+
+<h3>AI-Based Environmental Sound Recognition</h3>
+
+<p>
+Exploring a portable and context-aware system that recognizes important
+environmental sounds and provides meaningful alerts for hearing-impaired individuals.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/ESP32-007ACC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Audio_Processing-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/YAMNet-2563EB?style=flat-square"/>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/Satheessk">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/gsatheeskumar/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
+&nbsp;&nbsp;
+
+<a href="mailto:sksathees1245@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+&nbsp;&nbsp;
 
 <a href="https://sk-portfolio-lyart.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.icons8.com/fluency/48/domain.png" width="45"/>
 </a>
 
 </p>
 
----
+<p align="center">
+  <i>Building • Learning • Solving</i>
+</p>
 
-# 💡 My Goal
-
-> **Build meaningful software, solve challenging problems, and continuously grow as an engineer.**
-
-I'm currently focused on becoming a stronger **software developer** by combining solid computer science fundamentals with practical experience in **DSA, full-stack development, backend engineering, and AI/ML**.
-
----
+<!-- ========================= FOOTER BANNER ========================= -->
 
 <p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
-  <br/>
-  <i>Feel free to explore my repositories and projects.</i>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,50:7C3AED,100:06B6D4"
+    width="100%"
+  />
 </p>
